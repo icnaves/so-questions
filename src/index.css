@@ -1,0 +1,20 @@
+tbody tr {
+	cursor: pointer;
+}
+
+.no-scroll {
+	overflow: hidden;
+}
+
+.modal-body {
+	overflow-y: scroll;
+	max-height: 400px;
+}
+
+.modal-body img {
+	max-width: 100%;
+}
+
+.modal-body * {
+	max-width: 100%;
+}
